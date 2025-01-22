@@ -53,7 +53,7 @@
                         <goals>
                             <goal>check</goal>
                         </goals>
-                        <configuaration>
+                        <configuration>
                             <rules>
                                 <rule>
                                     <limits>
@@ -65,7 +65,7 @@
                                     </limits>
                                 </rule>
                             </rules>
-                        </configuaration>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
